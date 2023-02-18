@@ -1,0 +1,17 @@
+body {
+    background-color: wheat;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    text-align: center;
+}
+
+.field1{
+    color: blueviolet;
+    font-size: 20px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
